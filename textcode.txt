@@ -1,0 +1,10 @@
+push 5
+pop 4
+out 5
+add
+sub
+mul
+div
+sqrt
+hlt
+
