@@ -21,14 +21,14 @@ typedef struct
 
 enum typesOfErrors
 {
-        NULL_POINTER_OF_STACK = -1,
-        NULL_POINTER_OF_DATA = -2,
-        WRONG_C1 = 1,
-        WRONG_C2 = 2,
-        WRONG_DC1 = 3,
-        WRONG_DC2 = 4,
-        WRONG_HASH = 5,
-        WRONG_SIZE = 6
+    NULL_POINTER_OF_STACK = -1,
+    NULL_POINTER_OF_DATA = -2,
+    WRONG_C1 = 1,
+    WRONG_C2 = 2,
+    WRONG_DC1 = 3,
+    WRONG_DC2 = 4,
+    WRONG_HASH = 5,
+    WRONG_SIZE = 6
 };
 
 // ALL FUNCTIONS
